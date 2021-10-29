@@ -1,0 +1,131 @@
+﻿﻿body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    font-size: xx-large;
+    color: rgb(126 43 162);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+logo + .title {
+    display: inline;
+}
+
+#navbarNav {
+    background-color: rgb(13 231 41);
+    color: black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#home:hover {
+    background-color: white;
+}
+
+#schedaTecnica:hover {
+    background-color: white;
+}
+
+#novita:hover {
+    background-color: white;
+}
+
+footer {
+    position: fixed;
+    bottom: 5px;
+    right: 20px;
+    color: rgb(94 45 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#TrailerJoker {
+    position: fixed;
+    left: 290px;
+    top: 190px;
+}
+
+form {
+    background-color: rgb(13 231 41);
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 330px;
+    right: 550px;
+    border: 3px solid #f1f1f1;
+    max-width: 300px;
+    max-height: 300px;
+    padding: 16px 20px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#testoNewsletter {
+    text-align: center;
+    top: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#tastoTornaHome {
+    position: fixed;
+    right: 400px;
+    top: 240px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tastoTornaHomedaScheda {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Pulsanti {
+    background-color: rgb(13 231 41);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.PulsanteSubscribe {
+    background-color: rgb(215 131 252);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    border: 5px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#jokerImmagineFrontale {
+    float: right;
+    width: 400px;
+}
+
+.Descrizione {
+    margin: 20px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#jokerScala {
+    width: 800px;
+}
+
+
+#testoNewsletter:hover {
+    color: rgb(13 231 41);
+}
+
+#unsubscribeButton {
+    position: fixed;
+    right: 400px;
+    top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#jokerperNews {
+    position: fixed;
+    left: 50px;
+    bottom: 230px;
+    width: 500px;
+}
